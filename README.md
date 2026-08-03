@@ -10,36 +10,9 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 - 📍 Sunsari, Nepal
 
 ---
-
-## 🛠 Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,react,nextjs,nodejs,express,tailwind,postgres,mongodb,redis,prisma,docker,git,github,vscode" />
+</p>
 ---
 
 ## 🚀 Featured Projects
@@ -78,11 +51,6 @@ A collaborative document editor inspired by Google Docs.
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarhaluwai&layout=compact&theme=tokyonight" />
-</p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=rahulkumarhaluwai&theme=tokyonight" />
 </p>
@@ -90,11 +58,9 @@ A collaborative document editor inspired by Google Docs.
 ---
 
 ## 🌱 Currently Learning
-- Backend Architecture
-- System Design
-- Rust
-- Solana
+- System Architecture
 - Data Structures & Algorithms
+- Rust
 
 ---
 
