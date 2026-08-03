@@ -25,9 +25,9 @@ I'm a Full Stack Developer passionate about building scalable web applications a
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql" height="42" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb" height="42" />
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/redis" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stripe" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/prisma" height="42" />
   &nbsp;&nbsp;
