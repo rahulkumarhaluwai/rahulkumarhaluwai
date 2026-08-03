@@ -17,18 +17,12 @@ I'm a Full Stack Developer passionate about building scalable web applications a
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nextdotjs" height="42" />
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="42" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs" height="42" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tailwindcss" height="42" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/shadcnui" height="42" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/websocket" height="42" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jsonwebtokens" height="42" />
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express" height="42" />
- &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb" height="42" />
