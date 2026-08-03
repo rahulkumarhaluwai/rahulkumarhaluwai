@@ -2,19 +2,12 @@
 👨‍💻 About Me
 
 I'm a Full Stack Developer passionate about building scalable web applications and learning how large systems work behind the scenes.
-
-- 🚀 Building production-ready full-stack applications
-- ⚙️ Interested in Backend Engineering & System Design
-- 🌱 Currently exploring Rust and Solana development
-- 💡 Love solving real-world engineering problems
-- 📍 Sunsari, Nepal
+📍 Sunsari, Nepal
 
 ---
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/typescript" height="42" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cplusplus" height="42" />
   &nbsp;&nbsp;
@@ -27,9 +20,6 @@ I'm a Full Stack Developer passionate about building scalable web applications a
   <img src="https://cdn.simpleicons.org/nodedotjs" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express" height="42" />
-</p>
-
-<p align="center">
   <img src="https://cdn.simpleicons.org/postgresql" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb" height="42" />
