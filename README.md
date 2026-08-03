@@ -10,16 +10,15 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 - 📍 Sunsari, Nepal
 
 ---
-<h3 align="center">Tech Stack</h3>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/cplusplus" height="42" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rust" height="42" />
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rust" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react" height="42" />
   &nbsp;&nbsp;
@@ -42,10 +41,6 @@ I'm a Full Stack Developer passionate about building scalable web applications a
   <img src="https://cdn.simpleicons.org/docker" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linux" height="42" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/git" height="42" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github" height="42" />
 </p>
 
 ## 🚀 Featured Projects
