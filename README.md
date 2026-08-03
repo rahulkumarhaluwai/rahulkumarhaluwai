@@ -3,8 +3,7 @@
 
 I'm a Full Stack Developer passionate about building scalable web applications and learning how large systems work behind the scenes.
 
-- 📍 Sunsari, Nepal
-
+- 📍 Duhabi - 5, Sunsari, Nepal
 ---
 
 <p align="center">
@@ -20,7 +19,16 @@ I'm a Full Stack Developer passionate about building scalable web applications a
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs" height="42" />
   &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="42" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/shadcnui" height="42" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/websocket" height="42" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jsonwebtokens" height="42" />
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/express" height="42" />
+ &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql" height="42" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb" height="42" />
@@ -69,23 +77,8 @@ A collaborative document editor inspired by Google Docs.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rahulkumarhaluwai&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Currently Learning
 - System Architecture
 - Data Structures & Algorithms
 - Rust
-
----
-
-## 📫 Connect With Me
-- 📧 **Email:** rahulkumarhaluwai@gmail.com
-
----
-
-> *"Building software that is scalable, reliable, and impactful."*
+  
