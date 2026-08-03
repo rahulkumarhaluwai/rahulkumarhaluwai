@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Haluwai</h1>
----
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 I'm a Full Stack Developer passionate about building scalable web applications and learning how large systems work behind the scenes.
 
@@ -81,7 +80,6 @@ A collaborative document editor inspired by Google Docs.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rahulkumarhaluwai&show_icons=true&theme=tokyonight" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarhaluwai&layout=compact&theme=tokyonight" />
 </p>
 
