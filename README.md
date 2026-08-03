@@ -1,17 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Kumar Haluwai</h1>
-
-<p align="center">
-Full Stack Developer • Backend Enthusiast • Building Scalable Applications
-</p>
-
-<p align="center">
-<a href="https://github.com/rahulkumarhaluwai">
-<img src="https://komarev.com/ghpvc/?username=rahulkumarhaluwai&label=Profile%20Views&color=0e75b6&style=flat" />
-</a>
-</p>
-
 ---
-
 ## 👨‍💻 About Me
 
 I'm a Full Stack Developer passionate about building scalable web applications and learning how large systems work behind the scenes.
@@ -24,59 +12,40 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## 🛠 Tech Stack
 
 ### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,rust" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Inngest-6366F1?style=for-the-badge" />
-</p>
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
-  <img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge" />
-</p>
-
-### Blockchain
-
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity" height="48"/>
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
-</p>
-
-</div>
+---
 
 ## 🚀 Featured Projects
 
 ### 🛒 grociLab
-
 A production-ready grocery delivery platform with separate portals for Customers, Delivery Partners, and Admins.
 
 **Highlights**
@@ -89,10 +58,11 @@ A production-ready grocery delivery platform with separate portals for Customers
 
 **Tech:** Node.js • Express • PostgreSQL • Redis • React • TypeScript
 
+🔗 [Live Demo](https://groci-lab.vercel.app/) • 📂 [Source Code](https://github.com/rahulkumarhaluwai/grociLab)
+
 ---
 
 ### 📝 openDocx
-
 A collaborative document editor inspired by Google Docs.
 
 **Highlights**
@@ -103,6 +73,8 @@ A collaborative document editor inspired by Google Docs.
 - 🐳 Dockerized development
 
 **Tech:** Next.js • TypeScript • Convex • Liveblocks • Clerk • TipTap
+
+🔗 [Live Demo](https://opendocx.vercel.app/) • 📂 [Source Code](https://github.com/rahulkumarhaluwai/opendocx)
 
 ---
 
@@ -120,7 +92,6 @@ A collaborative document editor inspired by Google Docs.
 ---
 
 ## 🌱 Currently Learning
-
 - Backend Architecture
 - System Design
 - Rust
@@ -130,8 +101,8 @@ A collaborative document editor inspired by Google Docs.
 ---
 
 ## 📫 Connect With Me
-
 - 📧 **Email:** rahulkumarhaluwai@gmail.com
+
 ---
 
 > *"Building software that is scalable, reliable, and impactful."*
