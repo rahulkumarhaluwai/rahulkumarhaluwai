@@ -36,39 +36,6 @@ I'm a Full Stack Developer passionate about building scalable web applications a
   <img src="https://cdn.simpleicons.org/linux" height="42" />
 </p>
 
-## 🚀 Featured Projects
-
-### 🛒 grociLab
-A production-ready grocery delivery platform with separate portals for Customers, Delivery Partners, and Admins.
-
-**Highlights**
-- 🔐 Role-based authentication
-- 📍 Live order tracking
-- 📦 OTP delivery verification
-- ⚡ Redis caching
-- 💳 Stripe payments
-- 🔄 Event-driven workflows using Inngest
-
-**Tech:** Node.js • Express • PostgreSQL • Redis • React • TypeScript
-
-🔗 [Live](https://groci-lab.vercel.app/) • 📂 [Source Code](https://github.com/rahulkumarhaluwai/grociLab)
-
----
-
-### 📝 openDocx
-A collaborative document editor inspired by Google Docs.
-
-**Highlights**
-- ✨ Real-time collaboration
-- 👥 Live cursors
-- 💬 Inline comments
-- 🏢 Organization workspaces
-- 🐳 Dockerized development
-
-**Tech:** Next.js • TypeScript • Convex • Liveblocks • Clerk • TipTap
-
-🔗 [Live](https://opendocx.vercel.app/) • 📂 [Source Code](https://github.com/rahulkumarhaluwai/opendocx)
-
 ---
 
 ## 🌱 Currently Learning
