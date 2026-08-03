@@ -11,7 +11,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,react,nextjs,nodejs,express,tailwind,postgres,mongodb,redis,prisma,docker,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,react,nextjs,nodejs,express,tailwind,postgres,mongodb,redis,prisma&perline=8" />
 </p>
 
 ## 🚀 Featured Projects
