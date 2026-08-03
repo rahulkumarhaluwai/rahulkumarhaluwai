@@ -2,7 +2,8 @@
 👨‍💻 About Me
 
 I'm a Full Stack Developer passionate about building scalable web applications and learning how large systems work behind the scenes.
-📍 Sunsari, Nepal
+
+- 📍 Sunsari, Nepal
 
 ---
 
@@ -48,7 +49,7 @@ A production-ready grocery delivery platform with separate portals for Customers
 
 **Tech:** Node.js • Express • PostgreSQL • Redis • React • TypeScript
 
-🔗 [Live Demo](https://groci-lab.vercel.app/) • 📂 [Source Code](https://github.com/rahulkumarhaluwai/grociLab)
+🔗 [Live](https://groci-lab.vercel.app/) • 📂 [Source Code](https://github.com/rahulkumarhaluwai/grociLab)
 
 ---
 
@@ -64,7 +65,7 @@ A collaborative document editor inspired by Google Docs.
 
 **Tech:** Next.js • TypeScript • Convex • Liveblocks • Clerk • TipTap
 
-🔗 [Live Demo](https://opendocx.vercel.app/) • 📂 [Source Code](https://github.com/rahulkumarhaluwai/opendocx)
+🔗 [Live](https://opendocx.vercel.app/) • 📂 [Source Code](https://github.com/rahulkumarhaluwai/opendocx)
 
 ---
 
