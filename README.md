@@ -10,8 +10,42 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 - 📍 Sunsari, Nepal
 
 ---
+<h3 align="center">Tech Stack</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,rust,react,nextjs,nodejs,express,tailwind,postgres,mongodb,redis,prisma&perline=8" />
+  <img src="https://cdn.simpleicons.org/cplusplus" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rust" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express" height="42" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/postgresql" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github" height="42" />
 </p>
 
 ## 🚀 Featured Projects
