@@ -7,12 +7,6 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 ---
 
-## Top Languages
-  
-![Top Languages](./profile/top-langs.svg)
-
----
-
 <p align="center">
   <img src="https://cdn.simpleicons.org/typescript" height="42" />
   &nbsp;&nbsp;
