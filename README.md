@@ -5,9 +5,11 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 - Duhabi - 5, Sunsari, Nepal
 ---
+<p align ="center">
 ## Top Languages
 
 ![Top Languages](./profile/top-langs.svg)
+</p>
 
 ---
 
