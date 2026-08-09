@@ -1,46 +1,50 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Rahul Kumar Haluwai</h1>
+👨‍💻 About Me
 
-# 👋 Hi, I'm Rahul
+I'm a Full Stack Developer passionate about building scalable web applications and learning how large systems work behind the scenes.
 
-<p>
-I'm a Full Stack Developer passionate about building scalable web applications<br>
-and learning how large systems work behind the scenes.
+- Duhabi - 5, Sunsari, Nepal
+---
+## Top Languages
+
+![Top Languages](./profile/top-langs.svg)
+
+---
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/typescript" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/rust" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/stripe" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker" height="42" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/linux" height="42" />
 </p>
 
-📍 Duhabi - 5, Sunsari, Nepal
-
-</div>
-
-<br>
-
 ---
-
-<div align="center">
-
-## 📊 Top Languages
-
-<br>
-
-<img src="./profile/top-langs.svg" alt="Top Languages">
-
-</div>
-
----
-
-<br>
-
-<div align="center">
 
 ## 🌱 Currently Learning
-
-<br>
-
-**System Architecture** &nbsp;&nbsp;•&nbsp;&nbsp;
-**Data Structures & Algorithms** &nbsp;&nbsp;•&nbsp;&nbsp;
-**Rust**
-
-</div>
-
-<br>
-
----
+- System Architecture
+- Data Structures & Algorithms
+- Rust
+  
