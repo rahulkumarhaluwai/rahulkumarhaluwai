@@ -5,7 +5,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 
 - Duhabi - 5, Sunsari, Nepal
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumarhaluwai)
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/typescript" height="42" />
