@@ -4,10 +4,10 @@
 I'm a Full Stack Developer passionate about building scalable web applications and learning how large systems work behind the scenes.
 
 - Duhabi - 5, Sunsari, Nepal
+
+## Top Languages
 ---
 <p align ="center">
-## Top Languages
-
 ![Top Languages](./profile/top-langs.svg)
 </p>
 
