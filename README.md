@@ -8,6 +8,7 @@ I'm a Full Stack Developer passionate about building scalable web applications a
 ## Top Languages
 ---
 <p align ="center">
+  
 ![Top Languages](./profile/top-langs.svg)
 </p>
 
