@@ -125,8 +125,8 @@
       <g class="stagger" style="animation-delay: 100ms">
         <path
           data-testid="lang-pie"
-          size="74.61678998119959"
-          d="M 150 100 L 240 100 A 90 90 0 1 1 147.83320777321427 10.026087050490347 Z"
+          size="74.5466338762222"
+          d="M 150 100 L 240 100 A 90 90 0 1 1 147.43662167434437 10.03651245333161 Z"
           fill="#3178c6"
         />
       </g>
@@ -134,8 +134,8 @@
       <g class="stagger" style="animation-delay: 200ms">
         <path
           data-testid="lang-pie"
-          size="9.02750101799468"
-          d="M 150 100 L 147.83320777321427 10.026087050490347 A 90 90 0 0 1 196.51415434979359 22.95174599561922 Z"
+          size="9.019013192275276"
+          d="M 150 100 L 147.43662167434437 10.03651245333161 A 90 90 0 0 1 196.13286611521906 22.722845135219472 Z"
           fill="#f34b7d"
         />
       </g>
@@ -143,8 +143,8 @@
       <g class="stagger" style="animation-delay: 300ms">
         <path
           data-testid="lang-pie"
-          size="8.774789253441687"
-          d="M 150 100 L 196.51415434979359 22.95174599561922 A 90 90 0 0 1 229.98180990099797 58.73366886963871 Z"
+          size="8.860560907024375"
+          d="M 150 100 L 196.13286611521906 22.722845135219472 A 90 90 0 0 1 230.00028292488514 58.769492703359404 Z"
           fill="#dea584"
         />
       </g>
@@ -152,8 +152,8 @@
       <g class="stagger" style="animation-delay: 400ms">
         <path
           data-testid="lang-pie"
-          size="7.580919747364044"
-          d="M 150 100 L 229.98180990099797 58.73366886963871 A 90 90 0 0 1 240 99.9999999999999 Z"
+          size="7.573792024478146"
+          d="M 150 100 L 230.00028292488514 58.769492703359404 A 90 90 0 0 1 240 99.99999999999997 Z"
           fill="#f1e05a"
         />
       </g>
@@ -166,28 +166,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 74.62%
+        TypeScript 74.55%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 9.03%
+        C++ 9.02%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#dea584" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Rust 8.77%
+        Rust 8.86%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 7.58%
+        JavaScript 7.57%
       </text>
     </g>
   </g></g>
